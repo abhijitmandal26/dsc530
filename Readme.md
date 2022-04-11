@@ -19,7 +19,8 @@ The dataset contains a detailed set of products in an inventory and the main pro
 
 We will analyze the dataset and take a closer look at its content. The aim here is to find details like the number of columns and other metadata which will help us to gauge size and other properties such as the range of values in the columns of the dataset.
 
-### Approach
+### <img src="https://user-images.githubusercontent.com/13950516/162673345-5ea37d71-b9e4-47b7-aa6e-c43921d7b2d0.png" width="40" height="40" />&nbsp; Approach
+
 - #### We will be using the historical dataset for the analysis and training the model
   - The dataset contains 198,917 rows and 14 columns with 12 numerical and 2 categorical columns. There are 122,921 actively sold products in the dataset, which is where we’ll focus our analysis.
 - #### Univariate distribution plots
